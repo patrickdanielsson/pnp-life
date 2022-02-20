@@ -1,7 +1,7 @@
 http://www.getlit.cloud/*		https://pnp.life/room
 https://www.getlit.cloud/*	https://pnp.life/room
-http://getlit.cloud/*		https://pnp.life/room
-https://getlit.cloud/*		https://pnp.life/room
+http://getlit.cloud/*		https://pnp.life/ROOM
+https://getlit.cloud/*		https://pnp.life/ROOM
 
 http://www.pnp.life/*	https://pnp.life/*
 https://www.pnp.life/*	https://pnp.life/*
@@ -16,6 +16,7 @@ https://www.pnp.life/*	https://pnp.life/*
 /vip		/room
 /room		https://us02web.zoom.us/j/2223113222?pwd=YnhPbUNyQURNUjJtTW1iejl0dkQ3QT09
 
+/naked		/927
 /927		https://us05web.zoom.us/j/9279270000?pwd=MXZwLy9mRUJlVzYxK2F4TTZHeDhhQT09
 /discord		https://discord.gg/YE6Ut29hcC
 /hmix		https://us02web.zoom.us/j/2012211201
@@ -24,7 +25,7 @@ https://www.pnp.life/*	https://pnp.life/*
 /ukbadboys	https://ukbadboys.co.uk
 /dawoodshed	https://us02web.zoom.us/j/9801111980?pwd=eWVWRmNvZEhDRU9VbDRvYm02QTYvQT09
 /hanshaus	http://svarion.party/
-/jrzy		https://zoom.us/j/8561856856
+/jrzy		https://air-pnp.cloud/
 /hauzofd		https://us02web.zoom.us/j/9239231923
 
 # anything else
