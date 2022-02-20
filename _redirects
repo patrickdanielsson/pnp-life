@@ -1,17 +1,27 @@
 http://www.pnp.life/*	https://pnp.life/*
 https://www.pnp.life/*	https://pnp.life/*
 
-
-# this will redirect frontpage
-/	https://www.hausofprime.com/pnp/links
-
 # shortlinks
 
-/prime
-/elite
-/vip
-/room
+/getlit		/room
+/pride		/room
+/viproom		/room
+/prime		/room
+/elite		/room
+/vip		/room
+/room		https://us02web.zoom.us/j/2223113222?pwd=YnhPbUNyQURNUjJtTW1iejl0dkQ3QT09
+
+/927		https://us05web.zoom.us/j/9279270000?pwd=MXZwLy9mRUJlVzYxK2F4TTZHeDhhQT09
+/discord		https://discord.gg/YE6Ut29hcC
+/hmix		https://us02web.zoom.us/j/2012211201
+/official310	/310
+/310		https://zoom.us/j/3103102022?pwd=MXZwLy9mRUJlVzYxK2F4TTZHeDhhQT09
+/ukbadboys	https://ukbadboys.co.uk
+/dawoodshed	https://us02web.zoom.us/j/9801111980?pwd=eWVWRmNvZEhDRU9VbDRvYm02QTYvQT09
+/hanshaus	http://svarion.party/
+/jrzy		https://zoom.us/j/8561856856
+/hauzofd		https://us02web.zoom.us/j/9239231923
 
 # anything else
 
-/*	https://www.hausofprime.com/pnp/links
+/*		https://www.hausofprime.com/pnp/links
