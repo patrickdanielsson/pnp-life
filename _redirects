@@ -1,0 +1,17 @@
+http://www.pnp.life/*	https://pnp.life/*
+https://www.pnp.life/*	https://pnp.life/*
+
+
+# this will redirect frontpage
+/	https://www.hausofprime.com/pnp/links
+
+# shortlinks
+
+/prime
+/elite
+/vip
+/room
+
+# anything else
+
+/*	https://www.hausofprime.com/pnp/links
