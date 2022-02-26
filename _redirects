@@ -1,10 +1,10 @@
 http://www.getlit.cloud/*		https://pnp.life/ROOM
 https://www.getlit.cloud/*	https://pnp.life/ROOM
-http://getlit.cloud/*		https://pnp.life/ROOM
-https://getlit.cloud/*		https://pnp.life/ROOM
+http://getlit.cloud/*       https://pnp.life/ROOM
+https://getlit.cloud/*      https://pnp.life/ROOM
 
-http://www.pnp.life/*	https://pnp.life/*
-https://www.pnp.life/*	https://pnp.life/*
+http://www.pnp.life/*       https://pnp.life/*
+https://www.pnp.life/*      https://pnp.life/*
 
 # shortlinks
 
@@ -19,23 +19,24 @@ https://www.pnp.life/*	https://pnp.life/*
 /PRIDE		/ROOM
 /VIPROOM		/ROOM
 /PRIME		/ROOM
-/ELITE		/ROOM
-/VIP		/ROOM
-/ROOM		https://us02web.zoom.us/j/2223113222?pwd=YnhPbUNyQURNUjJtTW1iejl0dkQ3QT09
+/ELITE        /ROOM
+/VIP          /ROOM
+/ROOM         https://us02web.zoom.us/j/2223113222?pwd=YnhPbUNyQURNUjJtTW1iejl0dkQ3QT09
 
-/NAKED		/936
-/936		https://us02web.zoom.us/j/9369360000?pwd=NEUzMTd2M0owd0JvSmRNLys2SGlBZz09
-/HMIX		https://highlymixxxed.party/
+/NAKED		    /936
+/936		      https://us02web.zoom.us/j/9369360000?pwd=NEUzMTd2M0owd0JvSmRNLys2SGlBZz09
+/HMIX		      https://highlymixxxed.party/
 /OFFICIAL310	/310
-/310		https://zoom.us/j/3103102022?pwd=MXZwLy9mRUJlVzYxK2F4TTZHeDhhQT09
-/UKBADBOYS	https://ukbadboys.co.uk
+/310		      https://zoom.us/j/3103102022?pwd=MXZwLy9mRUJlVzYxK2F4TTZHeDhhQT09
+/UKBADBOYS    https://ukbadboys.co.uk
 /DAWOODSHEED	https://us02web.zoom.us/j/9801111980?pwd=eWVWRmNvZEhDRU9VbDRvYm02QTYvQT09
-/HANSHAUS	https://us02web.zoom.us/j/7355524263?pwd=VmJEU2t5L24xMVBjMkhqZ1V4NlllQT09
-/JRZY		https://air-pnp.cloud/
-/HAUZOFD		https://us02web.zoom.us/j/9239231923
-/NJSKINGDOM	/NJsKingdom
-/njskingdom	/NJsKingdom
-/NJsKingdom	https://us02web.zoom.us/j/9730001973?pwd=TENPS0NESkJzdjVYaWs2NW5WSjFEUT09
+/HANSHAUS     https://us02web.zoom.us/j/7355524263?pwd=VmJEU2t5L24xMVBjMkhqZ1V4NlllQT09
+/JRZY         https://air-pnp.cloud/
+/HAUZOFD		  https://us02web.zoom.us/j/9239231923
+/NJSKINGDOM	  /NJsKingdom
+/njskingdom	  /NJsKingdom
+/NJsKingdom	  https://us02web.zoom.us/j/9730001973?pwd=TENPS0NESkJzdjVYaWs2NW5WSjFEUT09
+/DISCOR*      https://discord.gg/wJtD6DarFe
 
 # anything else
 
