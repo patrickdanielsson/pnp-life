@@ -7,22 +7,24 @@ http://pnp.life/*           https://pnp.life/*
 http://www.pnp.life/*       https://pnp.life/*
 https://www.pnp.life/*      https://pnp.life/*
 
-# shortlinks
+# vip room
 
-/getlit		/ROOM
-/pride		/ROOM
-/viproom		/ROOM
-/prime		/ROOM
-/elite		/ROOM
-/vip		/ROOM
-/room		/ROOM
-/GETLIT		/ROOM
-/PRIDE		/ROOM
-/VIPROOM		/ROOM
-/PRIME		/ROOM
-/ELITE        /ROOM
-/VIP          /ROOM
-/ROOM         https://us02web.zoom.us/j/2220110222?pwd=YnhPbUNyQURNUjJtTW1iejl0dkQ3QT09
+/getlit		/VIP
+/pride		/VIP
+/viproom		/VIP
+/prime		/VIP
+/elite		/VIP
+/vip		/VIP
+/room		/VIP
+/GETLIT		/VIP
+/PRIDE		/VIP
+/VIPROOM		/VIP
+/PRIME		/VIP
+/ELITE              /VIP
+/ROOM               /VIP
+/VIP               https://us02web.zoom.us/j/2220110222?pwd=YnhPbUNyQURNUjJtTW1iejl0dkQ3QT09
+
+#naked
 
 /NAKED		     /936
 /936		       https://us02web.zoom.us/j/9369360000?pwd=NEUzMTd2M0owd0JvSmRNLys2SGlBZz09
