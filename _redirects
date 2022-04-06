@@ -9,49 +9,55 @@ https://www.pnp.life/*      https://pnp.life/*
 
 # vip room
 
-/getlit		/VIP
-/pride		/VIP
-/viproom		/VIP
-/prime		/VIP
-/elite		/VIP
-/vip		/VIP
-/room		/VIP
-/GETLIT		/VIP
-/PRIDE		/VIP
-/VIPROOM		/VIP
-/PRIME		/VIP
-/ELITE              /VIP
-/ROOM               /VIP
-/VIP               https://zoom.us/j/3336006333
+/getlit                     /VIP
+/pride                      /VIP
+/viproom                    /VIP
+/prime                      /VIP
+/elite                      /VIP
+/vip                        /VIP
+/room                       /VIP
+/GETLIT                     /VIP
+/PRIDE                      /VIP
+/VIPROOM                    /VIP
+/PRIME                      /VIP
+/ELITE                      /VIP
+/ROOM                       /VIP
+/VIP                        https://zoom.us/j/2221132222
 
-#naked
+# naked
 
-/NAKED		     /936
-/936		       https://us02web.zoom.us/j/9369360000?pwd=NEUzMTd2M0owd0JvSmRNLys2SGlBZz09
+/NAKED                      /936
+/naked                      /936
+/936                        https://us02web.zoom.us/j/9369360000?pwd=NEUzMTd2M0owd0JvSmRNLys2SGlBZz09
 
 # 1132 links
 
-/1132             https://www.hausofprime.com/category/error-1132
+/1132                       https://www.hausofprime.com/category/error-1132
 
-/HMIX		       https://highlymixxxed.party/
+/hmix                       /HMIX
+/HMIX                       https://highlymixxxed.party/
 
-/OFFICIAL310	 /310
-/310		       https://zoom.us/j/3103102022?pwd=MXZwLy9mRUJlVzYxK2F4TTZHeDhhQT09
+/OFFICIAL310                /310
+/310                        https://zoom.us/j/3103102022?pwd=MXZwLy9mRUJlVzYxK2F4TTZHeDhhQT09
 
-/ukbadboys      /UKBADBOYS
-/UKBADBOYS     https://ukbadboys.co.uk
+/ukbadboys                  /UKBADBOYS
+/UKBADBOYS                  https://ukbadboys.co.uk
 
-/DAWOODSHEED	 https://us02web.zoom.us/j/9801111980?pwd=eWVWRmNvZEhDRU9VbDRvYm02QTYvQT09
-/HANSHAUS      https://us02web.zoom.us/j/7355524263?pwd=VmJEU2t5L24xMVBjMkhqZ1V4NlllQT09
-/JRZY          https://air-pnp.cloud/
-/HAUZOFD		   https://us02web.zoom.us/j/9239231923
+/DAWOODSHEED                https://us02web.zoom.us/j/9801111980?pwd=eWVWRmNvZEhDRU9VbDRvYm02QTYvQT09
 
-/NJSKINGDOM	   /NJsKingdom
-/njskingdom	   /NJsKingdom
-/NJsKingdom    https://us02web.zoom.us/j/9731001973?pwd=Vlk2L1FkaldhQ3E2MWQ1cW0yZjRkQT09
+/HANSHAUS                   https://us02web.zoom.us/j/7355524263?pwd=VmJEU2t5L24xMVBjMkhqZ1V4NlllQT09
 
-/DISCOR*       https://discord.gg/VJbTch9Qzt
+/jrzy                       /JRZY
+/JRZY                       https://air-pnp.cloud/
+
+/HAUZOFD                    https://us02web.zoom.us/j/9239231923
+
+/NJSKINGDOM                 /NJsKingdom
+/njskingdom                 /NJsKingdom
+/NJsKingdom                 https://us02web.zoom.us/j/9731001973?pwd=Vlk2L1FkaldhQ3E2MWQ1cW0yZjRkQT09
+
+/DISCOR*                    https://discord.gg/VJbTch9Qzt
 
 # anything else
 
-/*		        https://www.hausofprime.com/pnp/links
+/*                         https://www.hausofprime.com/pnp/links
